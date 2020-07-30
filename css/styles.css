@@ -22,3 +22,7 @@ hr {
     border-width: 5px;
     width: 10%;
 }
+
+li:hover{
+    font-weight: bold;
+}
