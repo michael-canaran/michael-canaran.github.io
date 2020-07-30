@@ -3,19 +3,22 @@ body{
 }
 
 h1{
-    color: #1f5f8b;
+    color: #1891ac;
 }
 
 h2{
-    color: #1f5f8b;
+    color: #1891ac;
 }
 
+h3{
+    color: #1891ac;
+}
 
 hr{
     background-color: transparent;
     border-style: none;
     border-top-style: dotted;
-    border-color: #1f5f8b;
+    border-color: #1891ac;
     border-width: 5px;
     width: 10%;
 }
