@@ -1,6 +1,11 @@
 body{
     background-color: #d2ecf9;
 }
+
+h1{
+    color: #253b6e;
+}
+
 hr{
     background-color: transparent;
     border-style: none;
