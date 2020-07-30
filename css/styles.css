@@ -3,8 +3,13 @@ body{
 }
 
 h1{
-    color: #253b6e;
+    color: #1f5f8b;
 }
+
+h2{
+    color: #1f5f8b;
+}
+
 
 hr{
     background-color: transparent;
