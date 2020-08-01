@@ -14,6 +14,14 @@ h2 {
     font-family: 'Roboto', sans-serif;
 }
 
+h3{
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    padding-left: 20px;
+    padding-right: 20px;
+}
 
 .top-container {
     background-color: rgb(144, 175, 216);
@@ -21,7 +29,15 @@ h2 {
     padding-top: 100px;
 }
 
+.keyboard {
+    height: 200px;
+    width: 200px;
+}
 
+.linkedin {
+    height: 50px;
+    width: 50px;
+}
 .top-cloud {
     position: absolute;
     right: 300px;
