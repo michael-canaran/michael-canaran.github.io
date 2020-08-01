@@ -3,14 +3,19 @@ body {
     margin: 0;
 }
 
-div {
+h1 {
+    margin-top: 0;
+}
+
+.top-container {
     background-color: aquamarine;
 }
 
-h1 {
-    margin: 0;
+.middle-container {
+    background-color: red;
 }
 
-.text:hover {
-    color: aliceblue;
+.bottom-container {
+    background-color: blue;
 }
+
