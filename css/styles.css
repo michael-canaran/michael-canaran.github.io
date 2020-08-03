@@ -5,8 +5,8 @@ body {
     font-family: 'Roboto', sans-serif;
     padding-bottom: 40px;
     overflow: auto;
-    background-size:     cover;                 
-    background-repeat:   no-repeat;
+    background-size: cover;                 
+    background-repeat: no-repeat;
     background-position: center center;
 }
 
