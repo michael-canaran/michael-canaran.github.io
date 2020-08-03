@@ -22,6 +22,7 @@ p {
     background-color: rgb(144, 175, 216);
     position: relative;
     padding-top: 100px;
+    margin: auto;
 }
 
 .keyboard {
