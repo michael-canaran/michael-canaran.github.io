@@ -33,15 +33,15 @@ p {
 }
 .top-cloud {
     position: absolute;
-    right: 20rem;
-    top: 3rem;
+    right: 300px;
+    top: 50px;
 
 }
 
 .bottom-cloud {
     position: absolute;
-    left: 20rem;
-    bottom: 20rem;
+    left: 300px;
+    bottom: 300px;
 }
 
 .mountain {
