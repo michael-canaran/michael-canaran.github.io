@@ -14,9 +14,6 @@ p {
     padding-right: 20px;
 }
 
-.mountain {
-    margin: auto;
-}
 
 .first-break {
     margin-top: 0;
@@ -52,4 +49,5 @@ p {
 
 .mountain {
     vertical-align: bottom;
+    margin: auto;
 }
