@@ -3,7 +3,6 @@ body {
     margin: 0;
     text-align: center;
     font-family: 'Roboto', sans-serif;
-    padding-bottom: 40px;
 }
 
 h2 {
@@ -15,6 +14,9 @@ p {
     padding-right: 20px;
 }
 
+.first-break {
+    margin-top: 0;
+}
 
 .top-container {
     background-color: rgb(144, 175, 216);
